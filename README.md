@@ -5,4 +5,4 @@ Bootstrapped with the inescapable [Create React App](https://github.com/facebook
 
 `box_score_data.json` adheres to the box score schema used by [Erik Berg's xmlstats API](https://erikberg.com/api/endpoints/mlb-box-score).
 
-![Box Score Mock Screenshot](https://raw.githubusercontent.com/akuny/box-score-mock/master/box-score-mock.png)
+![Box Score Mock Screenshot](https://raw.githubusercontent.com/akuny/box-score-mock/main/box-score-mock.png)

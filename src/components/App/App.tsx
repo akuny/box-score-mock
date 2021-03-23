@@ -14,7 +14,7 @@ export default function App() {
       <div className="columns">
         <div className="column">
           <div className="section py-2">
-            <h1 className="title">Saturday, June 31, 2001</h1>
+            <h1 className="title">Sunday, May 27, 2012</h1>
           </div>
         </div>
       </div>

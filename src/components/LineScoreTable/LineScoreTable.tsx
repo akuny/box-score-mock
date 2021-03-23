@@ -5,7 +5,7 @@ interface iLineScoreTableProps {
   homeScores: string[]
 }
 
-export default function InningsTable({ awayNickname, homeNickname, awayScores, homeScores}: iLineScoreTableProps) {
+export default function LineScoreTable({ awayNickname, homeNickname, awayScores, homeScores}: iLineScoreTableProps) {
 
   function runTotal(arr: string[]) {
     const total = arr.reduce((acc, v, i) => {

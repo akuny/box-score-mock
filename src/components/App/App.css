@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: 'Consolas', 'monospace';
+  font-size: 0.8em;
+}
+
+.App, .table {
+  background-color: #f2f2ed!important;
+}
+
+.navbar {
+  border-bottom: black solid 1px!important;
+}
+
+.line-score {
+  border-bottom: black solid 1px;
+  border-top: black solid 1px;
+}
+
+.away-team-line-score td, .away-team-line-score th {
+  border-bottom: transparent 0px!important;
+}

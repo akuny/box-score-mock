@@ -6,7 +6,7 @@ interface iBatterLineTableProps {
   isHomeTeam: boolean
 }
 
-export default function HittingLineTable({ batters, team, isHomeTeam } : iBatterLineTableProps) {
+export default function BattingLineTable({ batters, team, isHomeTeam } : iBatterLineTableProps) {
 
   const batterRows = batters.map((batter, i) => {
     return (
